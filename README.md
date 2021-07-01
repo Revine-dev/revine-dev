@@ -20,7 +20,7 @@ Welcome aboard
 ![Html5](./assets/logos/Html5.svg)
 ![Javascript](./assets/logos/Javascript.svg)
 ![Jquery](./assets/logos/Jquery.svg)
-![laravel](./assets/logos/laravel.svg)
+![Laravel](./assets/logos/Laravel.svg)
 ![Material UI](./assets/logos/Material%20UI.svg)
 ![MongoDB](./assets/logos/MongoDB.svg)
 ![MySQL](./assets/logos/MySQL.svg)
@@ -29,7 +29,7 @@ Welcome aboard
 ![Node.js](./assets/logos/Node.js.svg)
 ![Php](./assets/logos/Php.svg)
 ![Postman](./assets/logos/Postman.svg)
-![React Native](./assets/logos/React%20Native.svg)
+![React Native](./assets/logos/React%20native.svg)
 ![React](./assets/logos/React.svg)
 ![Redux](./assets/logos/Redux.svg)
 
