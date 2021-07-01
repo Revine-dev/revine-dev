@@ -19,7 +19,7 @@
 ![Javascript](./assets/logos/Javascript.svg)
 ![Jquery](./assets/logos/Jquery.svg)
 ![Laravel](./assets/logos/Laravel.svg)
-![Material UI](./assets/logos/Material%20UI.svg)
+![Material UI](./assets/logos/MaterialUI.svg)
 ![MongoDB](./assets/logos/MongoDB.svg)
 ![MySQL](./assets/logos/MySQL.svg)
 ![Netlify](./assets/logos/Netlify.svg)
@@ -27,7 +27,7 @@
 ![Node.js](./assets/logos/Node.js.svg)
 ![Php](./assets/logos/Php.svg)
 ![Postman](./assets/logos/Postman.svg)
-![React Native](./assets/logos/React%20native.svg)
+![React Native](./assets/logos/Reactnative.svg)
 ![React](./assets/logos/React.svg)
 ![Redux](./assets/logos/Redux.svg)
 
