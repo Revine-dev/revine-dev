@@ -1,6 +1,4 @@
-# Hey !  💫 ✨
-
-Welcome aboard
+# Welcome aboard  💫 ✨
 
 ### 👨‍💻 Discover me
 
