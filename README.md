@@ -6,7 +6,7 @@
 
 📎 Currently : Looking for 6 months internship for 📅 August 2021 💫🌟
 
-### 💻 Technologies I work with ?
+### 💻 Technologies
 
 ![Apache](./assets/logos/Apache.svg)
 ![Bootstrap](./assets/logos/Bootstrap.svg)
