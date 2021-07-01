@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hey !  💫 ✨
 
-<!--
-**Revine-dev/revine-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome aboard
 
-Here are some ideas to get you started:
+### 👨‍💻 Discover me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Freelance web developer](https://www.revine.fr) self-taught since 2017, I recently gratuated from Le Réacteur to become Web and Mobile App Full Stack Developer specialized in JavaScript in 2021.
+
+📎 Currently : Looking for 6 months internship for 📅 August 2021 💫🌟
+
+### 💻 Technologies I work with ?
+
+![Apache](./assets/logos/Apache.svg)
+![Bootstrap](./assets/logos/Bootstrap.svg)
+![Css3](./assets/logos/Css3.svg)
+![Expo](./assets/logos/Expo.svg)
+![Gatsby](./assets/logos/Gatsby.svg)
+![Git](./assets/logos/Git.svg)
+![Heroku](./assets/logos/Heroku.svg)
+![Html5](./assets/logos/Html5.svg)
+![Javascript](./assets/logos/Javascript.svg)
+![Jquery](./assets/logos/Jquery.svg)
+![laravel](./assets/logos/laravel.svg)
+![Material UI](./assets/logos/Material%20UI.svg)
+![MongoDB](./assets/logos/MongoDB.svg)
+![MySQL](./assets/logos/MySQL.svg)
+![Netlify](./assets/logos/Netlify.svg)
+![Next.js](./assets/logos/Next.js.svg)
+![Node.js](./assets/logos/Node.js.svg)
+![Php](./assets/logos/Php.svg)
+![Postman](./assets/logos/Postman.svg)
+![React Native](./assets/logos/React%20Native.svg)
+![React](./assets/logos/React.svg)
+![Redux](./assets/logos/Redux.svg)
+
+📩 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/remi-vinatier/) - [Revine](https://www.revine.fr)
