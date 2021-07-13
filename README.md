@@ -4,7 +4,7 @@
 
 [Freelance web developer](https://www.revine.fr) self-taught since 2017, I recently gratuated from Le Réacteur to become Web and Mobile App Full Stack Developer specialized in JavaScript in 2021.
 
-📎 Currently : Looking for a position/6 months internship for 📅 August 2021 💫🌟
+📎 Currently : Looking for a remote position/6 months internship for 📅 August 2021 💫🌟
 
 ### 💻 Technologies
 
