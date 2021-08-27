@@ -1,6 +1,6 @@
 # Welcome aboard  💫 ✨
 
-### 👨‍💻 Discover me
+### 👨‍💻 About me
 
 [Freelance web developer](https://www.revine.fr) self-taught since 2017, I was mostly working with PHP et Laravel and I recently gratuated from Le Réacteur to become Web and Mobile App Full Stack Developer specialized in JavaScript in 2021.
 
