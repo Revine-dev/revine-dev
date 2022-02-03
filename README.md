@@ -28,5 +28,6 @@
 ![React Native](./assets/logos/Reactnative.svg)
 ![React](./assets/logos/React.svg)
 ![Redux](./assets/logos/Redux.svg)
+![WordPress](./assets/logos/WP.svg)
 
 📩 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/remi-vinatier/) - [Revine](https://www.revine.fr)
